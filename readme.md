@@ -21,7 +21,7 @@ No hubo conflicto porque master no tenía ningún cambio respecto a la rama abso
 **- ¿Qué comando o comandos utilizaste en el paso 25?**
 git log --graph --decorate
 
-**- El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?
+**- El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?**
 Si podría haber sido fast forward ya que al realizar el merge no se hubieran perdido cambios de otros commits.
 
 **- ¿Qué comando o comandos utilizaste en el paso 27?**
