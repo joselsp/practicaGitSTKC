@@ -1,5 +1,5 @@
-**- ¿Qué comando utilizaste en el paso 11? ¿Por qué?**
-git reset --hard HEAD~1
+> **- ¿Qué comando utilizaste en el paso 11? ¿Por qué?**
+> git reset --hard HEAD~1
 
 Con reset movemos el puntero head y la rama actual donde indiquemos. En este caso, a un commit previo y además deshacemos los cambios en local con --hard.
 
